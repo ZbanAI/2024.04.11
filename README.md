@@ -1,4 +1,4 @@
-# Boli AI 2024.10.04 (draft)
+# Zban AI 2024.10.04 (draft)
 
 Released on the pious occasion on the blessed day 10th April 2024
  - Cheti Chand
@@ -14,7 +14,7 @@ No Warranty, Zero Liability <br>
 
 Note: Individual files may have independent license and copyright terms
 
-## Project Hindawi is now part of Project VIKRAM https://projectvikram.github.io
+## Zban AI is now part of Project VIKRAM https://projectvikram.github.io
 
 ## Technical support from: AyeAI Consulting https://bit.ly/achoudhary
 
